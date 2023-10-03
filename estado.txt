@@ -1,0 +1,1 @@
+#substitua este comentário pelo estado correspondente às cidades do arquivo cidades.txt
